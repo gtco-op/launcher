@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CConfiguration.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_dx9.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CConfiguration.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\3logoData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\Bg.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SAFiveTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SAFourTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\sanAndreasLogoData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SAOneTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SASevenTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SASixTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SAThreeTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\SATwoTexData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\VCMenuLogo.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\viceCityLogoData.h">
+      <Filter>textures</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_dx9.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\launcherBanner.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures\launcherBannerHover.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{ed92f44b-30cb-4c56-940e-71a473db28a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="textures">
+      <UniqueIdentifier>{e6470cdb-b5f5-48cf-800e-6aa06a0b7e53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{4232ca77-959a-4b01-81bd-da99b9b7f86c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
